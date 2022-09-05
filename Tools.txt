@@ -1,0 +1,5 @@
+Phone Number Carrier Checker
+This tool will check your phone number list which has valid Carrier and which is not .
+This tool will able to check worldwide phone number and no api key needed just need good http proxy or socks4 proxy.
+
+If you wanna buy this tool contact me vai telegram @alexrony21
